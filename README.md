@@ -5,5 +5,6 @@ This project is based on DATA of a MUSIC STORE . This dataset is Downloaded by k
 sql Quries . This analysis will help our music store manager to find out their problem answers effective and profitable manner .
 
 # DATABASE AND TOOL
-<ul>Postgre SQL
-PgAdmin4</ul>
+
+Postgre SQL , 
+PgAdmin4
